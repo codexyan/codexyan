@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fakhrian
+- 👋 Hi, I’m Fakhrian MERN Stack Developer
 - 👀 I’m interested in Javascript Language
 - 🌱 I’m currently learning Web and Interface Technology
 o
