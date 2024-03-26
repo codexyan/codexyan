@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fakhrian so you can call me "iyan". I'm MERN Stack Developer. I'm Software Engineer who specialized in frontend side, but also have an ability to code in backend side. Very passionate about modern mobile and web technology using JavaScript/TypeScript while taking into consideration the latest trends and techniques.
+- 👋 Hi, I'm Fakhrian "Iyan". I'm a MERN Stack Developer, passionate about building cool stuff for the web and mobile using JavaScript. I love diving into frontend development while also dabbling in the backend
 
 <!---
 codexyan/codexyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
